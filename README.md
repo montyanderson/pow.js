@@ -1,4 +1,8 @@
 # pow.js
+
+[![npm](https://img.shields.io/npm/v/pow.js.svg)](https://www.npmjs.com/package/pow.js)
+
+
 Proof-of-Work implemented in Javascript
 
 ## Usage
